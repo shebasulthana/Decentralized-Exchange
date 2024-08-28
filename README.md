@@ -3,6 +3,8 @@
 
 A decentralized exchange built on Ethereum, enabling peer-to-peer cryptocurrency trading without intermediaries.
 ## Here is a preview:
+![image](https://github.com/user-attachments/assets/ac07bd90-fb1e-4387-93f2-98b9f8ad5ef6)
+
 
 ## Features
 
