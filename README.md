@@ -1,16 +1,8 @@
-<!-- # DEX dev
 
-## Technology Stack & Tools
-
-- Solidity (Writing Smart Contract)
-- Javascript (React & Testing)
-- [Web3](https://web3js.readthedocs.io/en/v1.5.2/) (Blockchain Interaction)
-- [Truffle](https://www.trufflesuite.com/docs/truffle/overview) (Development Framework)
-- [Ganache](https://www.trufflesuite.com/ganache) (For Local Blockchain)
-- Metamask -->
 # Decentralized Exchange
 
 A decentralized exchange built on Ethereum, enabling peer-to-peer cryptocurrency trading without intermediaries.
+## Here is a preview:
 
 ## Features
 
